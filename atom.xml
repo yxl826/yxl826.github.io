@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Yxl&#39;s blog</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2025-11-16T09:55:03.036Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>yxl826</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2025/11/16/hello-world/"/>
+    <id>http://example.com/2025/11/16/hello-world/</id>
+    <published>2025-11-16T07:44:20.008Z</published>
+    <updated>2025-11-16T09:55:03.036Z</updated>
+    
+    <content type="html"><![CDATA[<p>欢迎来到我的个人博客</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;欢迎来到我的个人博客&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
